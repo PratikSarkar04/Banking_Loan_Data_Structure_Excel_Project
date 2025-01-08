@@ -5,7 +5,7 @@ Bank loans are a crucial financial tool that enables individuals and businesses 
 
 
 
-Banks collect loan data through various channels and processes, including:
+## Banks collect loan data through various channels and processes, including:
 
 
 Loan Applications: When individuals or businesses apply for loans, they submit detailed applications that include personal and financial information. This data is collected electronically or in paper form.
@@ -19,12 +19,7 @@ Online Portals: Many banks offer online platforms where borrowers can apply for 
 Third-party Data Sources: Some banks may use external data sources, such as income verification services, to gather additional information about borrowers.
 
 
-
-
-Reasons for Analysing Bank Loan Data:
-
-
-Banks analyse loan data for several critical reasons:
+## Banks analyse loan data for several critical reasons:
 
 
 Risk Assessment: One of the primary purposes of analysing loan data is to assess the risk associated with lending to a particular individual or business. Banks use data to evaluate the creditworthiness of borrowers, predict default probabilities, and determine interest rates and lending terms.
